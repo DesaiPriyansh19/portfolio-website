@@ -1,0 +1,198 @@
+*{
+    margin:0;
+    padding: 0;
+    box-sizing: border-box;
+   
+
+    font-family: 'Bebas Neue', sans-serif;
+
+    
+
+}
+html,body{
+    height: 100%;
+    width: 100%;
+}
+.main{
+    height: 100%;
+    width: 100%;
+opacity: .7;
+    
+}
+.navbar{
+    height: 10%;
+    width: 100%;
+    padding: 0%;
+    margin: 0%;
+
+    display: flex;
+    align-items: center;
+    justify-content:space-evenly;
+font-size: 16px;
+margin-top: 4%;
+position: sticky;
+position: -webkit-sticky;
+top: o.5;
+
+
+}
+
+.menu{
+    padding-right: 60%;
+    padding-left: 0.1%;
+    font-size: 20px;
+    opacity: 1;
+    
+}
+    
+    
+   
+.menu i{
+    color: rgb(228, 3, 3);
+    opacity: 1;
+}
+.home{   font-weight: bolder;
+    display: flex;
+
+}
+.about{   font-weight: bolder;
+    display: flex;
+}
+.portfolio{
+    display: flex; 
+      font-weight: bolder;
+}
+
+.contect{   font-weight: bolder;
+    display: flex;
+}
+.menu:hover{
+    color:rgb(241, 41, 41);
+}
+.home:hover{
+    color: rgb(182, 6, 6);
+}
+.about:hover{
+    color: red;
+}
+.portfolio:hover{
+    color: red;
+}
+.contect:hover{
+    color: red;
+}
+
+
+.border{
+    height: .2%;
+    width: 100%;
+    background-color: rgb(210, 30, 30);
+}
+.main2{
+    height: 100%;
+    width: 100%;
+    background-color: ;
+    margin: 0%;
+    padding: 0%;
+    display: flex;
+    align-items: center;
+}
+.te1{height: 100%;
+    width: 50%;
+    padding:0%;
+    margin: 0%;
+    font-size: 30px;
+    background-color:;
+}
+.t2{
+    height: 200vh;
+    width: auto;
+    padding:0%;
+    
+    margin: 0%;
+    background-color;
+
+    background-image: url(IMG_2775\ 3.pdf);
+background-repeat: no-repeat;
+    background-size: 100%;
+margin-right: 0%;
+  
+
+}
+
+.main2 img{height: 50%;
+position: absolute;
+border-radius: 10px;
+left: 70%;
+bottom: 20%;
+opacity:1;
+transform: translate(-30%,0);}
+.pere{
+    margin-left: 40%;
+    margin-top: 20%;
+    font-size: 140px;
+
+
+    
+
+}
+.pr{
+    margin-top: 10%;
+    margin-bottom: -17%;
+    margin-right: 50%;
+ display: flex;
+ align-items: center;
+ font-weight: 100px;
+ font-family: 'Bebas Neue', sans-serif;
+ font-size: ;
+
+}
+.desai{    margin-top: 0%;
+    margin-left: 35%;
+    margin-bottom: 0%;
+    display: flex;
+    align-items: center;
+    font-weight: bolder;
+
+
+}
+.p{
+
+}
+.r{}
+.i{}
+.y{}
+.a{color:red;}
+.n{}
+.s{}
+.h{}
+.d{    opacity: .5;}
+.e{color: rgb(235, 231, 5);
+opacity: 1;}
+.ds{    opacity: .5;}
+.da{color: #000;    opacity: .5;}
+.di{    opacity: .5;}
+.devlp{
+    margin-left: 49%;
+    margin-top: -5%;
+    letter-spacing: 8px;
+    font-size: 18px;
+    color:red;
+    font-weight: 1;
+}
+.p:hover{color: red;
+
+}
+.r:hover{color: red;}
+.i:hover{color: red;}
+.y:hover{color: red;}
+.a:hover{color: red;}
+.n:hover{color: red;}
+.s:hover{color: red;}
+.h:hover{color: red;}
+.d:hover{color:   rgb(235, 231, 5);}
+.e:hover{color: rgb(235, 231, 5) ;}
+
+.ds:hover{  color:  rgb(235, 231, 5); }
+.da:hover{color: rgb(235, 231, 5);}
+.di:hover{  color: rgb(235, 231, 5); }
